@@ -48,9 +48,9 @@ My previous experience is interior design in a program in pro100, and creating c
 
 ### My projects
 
-* gh repo clone sylwiatondi/challenge_sylwia
+* [gh repo clone sylwiatondi/challenge_sylwia](https://github.com/sylwiatondi/challenge_sylwia.git)
 
-* gh repo clone sylwiatondi/panelscout_robotframework_1
+* [gh repo clone sylwiatondi/panelscout_robotframework_1](https://github.com/sylwiatondi/panelscout_robotframework_1.git)
 
 
 
