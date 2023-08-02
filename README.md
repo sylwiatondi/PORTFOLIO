@@ -8,6 +8,7 @@
 * [Courses](#Courses)
 * [Tools](#Tools)
 * [My projects](#my-projects)
+* [Other info](#other-info)
      
 
 
@@ -28,11 +29,34 @@ My previous experience is interior design in a program in pro100, and creating c
 
 ### Courses
 
+* Euro Accountant
+* ECDL Start
+* Software operation "Gratyfikant"
+* Software operation "Płatnik"
+  
+### Tools
+
+* Płatnik
+* Gratyfikant
+* PRO 100
+* Gemini Cad
+* Slack - for communication within the team
+* Git, GitHub
+* Selenium WebDriver - for automated testing of web applications
+* PyCharm
 
 
 ### My projects
 
+* gh repo clone sylwiatondi/challenge_sylwia
 
+* gh repo clone sylwiatondi/panelscout_robotframework_1
+
+
+
+
+
+### Other info
 
 - 📫 How to reach me **sylwia.t@op.pl**
 
